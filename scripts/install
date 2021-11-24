@@ -99,7 +99,7 @@ ynh_system_user_create --username=$app
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
-ynh_script_progression --message="Skipping java --weight=15"
+ynh_script_progression --message="Skipping java"
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
