@@ -12,6 +12,8 @@ Minecraft is a sandbox construction game, whose gameplay involves players intera
 
 ### Installing guide
 
+### You need to install Java 17 first
+
 The app can be installed by **running the following command**:
 
 `sudo yunohost app install https://github.com/YunoHost-Apps/minecraft_ynh`
